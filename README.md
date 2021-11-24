@@ -1,3 +1,3 @@
 # Project - guess the number
 
-Visit this [site](https://boskolakovic.github.io/guessnumber.github.io/)
+Visit this [site](https://earthshak3r.github.io/guessnumbergame/)
